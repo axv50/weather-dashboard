@@ -11,7 +11,7 @@ Description:
 6th challenge 
 
 Site Screen shot: 
-
+https://github.com/axv50/weather-dashboard/blob/main/assets/images/Screenshot%20(6).png
 Git Hub Repo:
 https://github.com/axv50/weather-dashboard
 Working Site:
